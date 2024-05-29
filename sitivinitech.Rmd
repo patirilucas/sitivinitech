@@ -1,0 +1,59 @@
+---
+title: "Resumen Sitivinitech"
+authors:
+  - name: Santiago Diez
+  - name: Juan Rivero
+  - name: Agustín Rodriguez
+  - name: Tomás Boismene
+  - name: Lucas Patiri
+  - name: Tomás Cerutti
+abstract: "Este documento explica los detalles del Modulo 3."
+bibliography: references.bib
+biblio-style: apa
+header-includes:
+  - \usepackage{float}
+output: rticles::arxiv_article
+---
+
+
+\Large SITIVINITECH
+
+El evento “Sitivinitech” que tuvo lugar en la Nave Cultural de Mendoza fue una experiencia enriquecedora y llena de aprendizaje. Este evento congregó a una amplia variedad de empresas agrícolas, químicas y vitivinícolas, todas mostrando sus innovaciones y avances tecnológicos en el sector.
+# Innovaciones y Tecnologías Presentadas
+	1.	Drones de Fertilización: Una de las atracciones más destacadas fueron los drones de fertilización. Estos dispositivos mostraron cómo se puede optimizar la distribución de fertilizantes en los campos, asegurando una aplicación precisa y eficiente, lo que puede resultar en un uso más sostenible de los recursos.
+	2.	Tractores Modernos: Varios fabricantes presentaron sus últimos modelos de tractores, equipados con tecnologías avanzadas que mejoran la eficiencia y reducen el impacto ambiental. Estos tractores están diseñados para trabajar en diferentes condiciones de terreno y clima, ofreciendo soluciones adaptadas a diversas necesidades agrícolas.
+	3.	Simuladores de Manejo de Tractor con Realidad Virtual: Una de las experiencias más innovadoras fue el uso de simuladores de manejo de tractor con realidad virtual. Estos simuladores permiten a los usuarios practicar y mejorar sus habilidades de manejo en un entorno seguro y controlado, replicando condiciones reales del campo.
+	4.	Sistemas de Riego Avanzados: Se exhibieron bombas de riego y picos de riego de última generación, diseñados para maximizar la eficiencia en el uso del agua. Estos sistemas son cruciales para asegurar que los cultivos reciban la cantidad adecuada de agua, mejorando tanto la productividad como la sostenibilidad.
+	5.	Mallas Antigranizo: También se presentaron mallas antigranizo, una tecnología esencial para proteger los cultivos de los daños causados por granizo, lo que puede ser devastador para las cosechas. Estas mallas ofrecen una solución eficaz para minimizar las pérdidas y garantizar la calidad de los productos agrícolas.
+Oportunidades de Pasantía
+Además de las exhibiciones tecnológicas, el evento ofreció valiosas oportunidades de pasantía. Varias empresas participantes estaban interesadas en atraer a nuevos talentos y ofrecieron programas de pasantía para estudiantes y profesionales jóvenes. Estas pasantías representan una excelente oportunidad para adquirir experiencia práctica, aprender de expertos en el campo y establecer contactos profesionales que pueden ser cruciales para el desarrollo de una carrera en el sector agrícola, químico o vitivinícola.
+
+## Conclusión
+“Sitivinitech” en la Nave Cultural de Mendoza no solo nos permitió conocer las últimas innovaciones tecnológicas en el ámbito agrícola y vitivinícola, sino que también nos brindó la oportunidad de explorar posibles caminos profesionales a través de las pasantías ofrecidas. 
+
+
+
+
+
+# CICLO FRIGORÍFICO
+
+El ciclo frigorífico es esencial para el funcionamiento de una máquina enfriadora de agua, diseñada para transferir calor y enfriar el agua que circula a través del sistema. A continuación, se describen los componentes clave y su funcionamiento:
+Componentes y Funcionamiento
+	1.	Evaporador
+El ciclo comienza en el evaporador, donde el refrigerante líquido absorbe el calor del agua, enfriándola. Al absorber el calor, el refrigerante se evapora, transformándose en gas.
+	2.	Compresor
+El gas refrigerante luego es succionado por el compresor, que aumenta su presión y temperatura, haciendo que esté listo para liberar el calor absorbido.
+	3.	Condensador
+El gas comprimido se desplaza al condensador, donde cede el calor absorbido al medio ambiente (a menudo utilizando aire o agua de enfriamiento). Al liberar el calor, el refrigerante se condensa nuevamente en líquido.
+	4.	Válvulas de Expansión
+El refrigerante líquido pasa a través de las válvulas de expansión, donde su presión disminuye drásticamente, enfriándolo y preparándolo para volver al evaporador.
+	5.	Bomba
+Una bomba se encarga de mover el agua enfriada desde el evaporador hacia el sistema de distribución, asegurando un flujo constante y eficiente.
+Equipos Adicionales
+	6.	Contactores y Térmicas
+Los contactores son interruptores eléctricos controlados por una señal de baja energía que permite el paso de corriente a los componentes principales, como el compresor y la bomba. Las térmicas protegen el sistema contra sobrecargas eléctricas y cortocircuitos.
+	7.	Medidores de Temperatura
+Estos dispositivos monitorizan las temperaturas del refrigerante y del agua enfriada, asegurando que el sistema opere dentro de los parámetros óptimos.
+Experiencia con Frio21
+Durante el evento, tuvimos la oportunidad de hablar con un representante de Frio21, quien nos contó sobre las máquinas de frío que fabrican. Nos explicaron que sus enfriadoras de agua están equipadas con tecnología de punta para mejorar la eficiencia energética y la durabilidad del equipo. Destacaron el uso de componentes de alta calidad y sistemas avanzados de control que permiten un funcionamiento preciso y fiable. También mencionaron que sus máquinas son diseñadas para facilitar el mantenimiento y reducir los costos operativos a largo plazo.
+Esta explicación nos permitió comprender mejor el funcionamiento del ciclo frigorífico y las innovaciones que Frio21 está implementando para optimizar el rendimiento de sus máquinas de frío.
